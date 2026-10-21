@@ -1,0 +1,9 @@
+{
+  "events": 184,
+  "file": "../../log/events.jsonl",
+  "fileSha256": "48eb5b7940d037840cb28294fa5bec7f31552e24d5c809eb01b85209d5d3259c",
+  "generatedAt": "2026-10-13T20:18:24Z",
+  "head": "7a081e077f068e373989711925dfc668f3300af7fc36c872cac1f22f9eed88a2",
+  "record": "marlo/agentic-marlo log",
+  "verified": true
+}
